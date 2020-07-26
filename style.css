@@ -5,7 +5,10 @@ html{
 body{
     margin:0px;
     padding:0px;
-    background-color:#e4e47b
+    background-color:#e4e47b;
+    position: relative;
+    left: 0%;
+    right: 0%;
 }
 ul{
     list-style: none;
