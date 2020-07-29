@@ -202,7 +202,7 @@ button:hover{
     width: 35%;
     position: relative;
     left: 60%;
-    top: 10%;
+    top: 15%;
     transform: translateX(-8%);
     border-radius: 50px;
 }
