@@ -555,7 +555,7 @@ footer p:nth-child(3){
 @media (max-width:700px) and (min-width:480px){
     .model{
         height:30%;
-        transform: translateY(85%);
+        transform: translateY(75%);
     }
     .profile-pic{
         position: relative;
